@@ -630,4 +630,7 @@ footer .col-2 .s-col a{
     .things .t-grid{
         grid-template-columns: repeat(1,1fr);
     }
+    footer .col-2{
+        gap: 3rem;
+    }
 }
